@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 :root {
     --clr-dark: #151139;
     --clr-light: #F5F5F5;
